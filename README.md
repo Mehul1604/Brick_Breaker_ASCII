@@ -1,8 +1,8 @@
 # Assignment 3 Readme
 
-# ASCII Brick Breaker Game 
+# DASS Assignment 3
 
-### Terminal Based Brick Breaker in Python
+### Extension of Terminal Based Brick Breaker in Python
 
 In this assignment , an OOPS concept based terminal game in python was Built. The games is identical to the classic brick breaker game. The code of the game is written using various Python concepts including Inheritance , Polymorphism , Encapsulation and Abstraction. All the game objects and figures have been designed in ascii characters. The colors of the game are terminal colors used from Python's *colorama* module
 
